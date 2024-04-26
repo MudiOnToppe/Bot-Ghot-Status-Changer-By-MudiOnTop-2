@@ -25,12 +25,12 @@ app.get('/', (req, res) => {
   res.send('Lo Status Del Tuo Bot E Cambiato!✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Giocando A: discord.gg/Hmm8aXRDM8`);
+  console.log(`🔗 Lavornado On : discord.gg/MeC2yWpy3Y`);
   console.log(`🔗 Powered By MudiOnTop`);
 });
 
 
-const statusMessages = ["🤖Bot MCAI🤖","🔥Messicano City AI🔥","🔗https://discord.gg/Hmm8aXRDM8🔗","👑Best Fivem Server👑","😈Bot Made By MudiOnTop😈"];
+const statusMessages = ["🤖Bot Mudi's World®🤖","🔥Mudi's World®🔥","🔗discord.gg/MeC2yWpy3Y🔗","👑Only Top Quality Things👑","😈Bot Made By MudiOnTop😈"];
 
 
 let currentIndex = 0;
